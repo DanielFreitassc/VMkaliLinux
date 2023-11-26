@@ -1,8 +1,9 @@
 # [Lombok](https://www.baeldung.com/intro-to-project-lombok) 
 
 ## Dentro do pom.xml.
-<dependencies>
-  
+
+```<dependencies>```
+ 
 ```
   <dependency>
       <groupId>org.projectlombok</groupId>
@@ -11,4 +12,5 @@
       <scope>provided</scope>
   </dependency>
 ```
-</dependencies>
+
+```</dependencies>```
