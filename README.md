@@ -14,3 +14,7 @@
 ```
 
 ```</dependencies>```
+# Import
+```
+import lombok.Data;
+```
