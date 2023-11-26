@@ -18,3 +18,7 @@
 ```
 import lombok.Data;
 ```
+# Annotation
+```
+@Data
+```
