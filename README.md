@@ -2,6 +2,7 @@
 
 ## Dentro do pom.xml.
 <dependencies>
+  
 ```
   <dependency>
       <groupId>org.projectlombok</groupId>
@@ -9,6 +10,5 @@
       <version>1.18.20</version>
       <scope>provided</scope>
   </dependency>
-
 ```
 </dependencies>
