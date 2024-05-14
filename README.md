@@ -81,20 +81,28 @@
 
 ![Passo19](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/91d6c10b-398d-4d45-8072-673f12e29192)
 
-## 20 Deixe padrão Assistido - usar disco o inteiro
+## 20 - Deixe padrão Assistido - usar disco o inteiro
 
 ![Passo20](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/c39dcb1a-0a08-451a-a4a1-9a23c3870d20)
 
-## 21 Clique em Continuar
+## 21 - Clique em Continuar
 
 ![Passo21](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/77060376-8794-4c37-8165-89b4a6821ad5)
 
-## 22 Deixe padrão e clique em Continuar
+## 22 - Deixe padrão e clique em Continuar
 
 ![Passo22](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/bb792ad2-025a-4b57-b4ef-fe7d50d0dc64)
 
-## 23 Deixe padrão e clique em Continuar
+## 23 - Deixe padrão e clique em Continuar
 
 ![Passo23](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/6caf26f7-11b8-45df-8b97-cc6d407609d7)
+
+## 24 - Marque a opção sim e clique em Continuar
+
+![Passo24](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/2f8cff14-bdf1-4385-9612-4b1049d67714)
+
+### Clique em Continuar
+
+![Passo25](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/22761d6c-729f-499b-9e9f-38e67c1d6962)
 
 
