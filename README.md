@@ -1,4 +1,4 @@
-![image](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/30ef888d-69dc-4550-be74-3c312366a7f8)![image](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/d91bd220-246f-4d51-bb38-5a9ad04c1403)## 1 - Abra o Virtual Box
+![image](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/cf75c624-337d-4627-a67d-9cc1bc69ac4f)![image](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/30ef888d-69dc-4550-be74-3c312366a7f8)![image](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/d91bd220-246f-4d51-bb38-5a9ad04c1403)## 1 - Abra o Virtual Box
 
 ![Passo1](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/f01ad255-42ca-4256-87eb-f9036e9358ec)
 
@@ -125,5 +125,16 @@
 
 ![Passo28](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/1965ea87-1fe3-496d-aed6-5fcead341646)
 
+## Neste Passo deixe em sim e clique em continuar
+
+![Passo003](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/2e4bee1a-eb8b-45c2-a66a-f6455a43a5ac)
+
+## Deixe tudo por padrão e clique em continuar
+
+![Passo004](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/53fc6c91-dda1-4314-9cdc-90703273d9d2)
+
+## Defina o nome como kali
+
+![Passo005](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/f826cb56-1e9e-4bcc-81ef-198812bbf4de)
 
 
