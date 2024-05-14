@@ -1,4 +1,4 @@
-## 1 - Abra o Virtual Box
+![image](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/d91bd220-246f-4d51-bb38-5a9ad04c1403)## 1 - Abra o Virtual Box
 
 ![Passo1](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/f01ad255-42ca-4256-87eb-f9036e9358ec)
 
@@ -48,3 +48,27 @@
 ## 11 - Deixe padrão Brasil e clique em próximo
 
 ![Passo12](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/e727786c-fbcf-4fa4-ae3e-22953120cb7d)
+
+## 12 - Deixe em UTF8
+
+![Passo13](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/e2f8c38a-caf1-4779-8d22-d44f07636437)
+
+## 13 - Deixe Português Brasileiro
+
+![Passo14](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/41d4a642-2940-4d26-b9ff-dc4fbf2f7c6f)
+
+## 14 - Espere carregar
+
+![image](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/95057e9e-601b-487f-bb92-246c933bf81d)
+
+## 15 - Deixe o nome da Máquina como kali
+
+![Passo15](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/e8891d0d-593f-463b-a771-3a283e2c5b2b)
+
+## 16 - Deixe o campo domínio vazio 
+
+![Passo16](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/7cfdad09-f92d-4462-8fd4-a547a98d9a06)
+
+## 17 - Defina o nome completo como kali
+
+![Passo17](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/0d8eee80-8db5-4e9d-8776-0de6c7dfac26)
