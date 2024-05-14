@@ -84,9 +84,6 @@
 
 ![Passo001](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/b5569638-8de1-40d0-b788-428b3db36788)
 
-
-
-
 ## 20 - Deixe padrão Assistido - usar disco o inteiro
 
 ![Passo20](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/c39dcb1a-0a08-451a-a4a1-9a23c3870d20)
@@ -115,28 +112,19 @@
 
 ![Passo002](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/82bb5f04-ee50-4560-8c61-d8afe38c3c3a)
 
-
-## 25 - Deixe o idioma em Português do Brasil 
-
-![Passo26](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/8fcadc81-bbdb-4bd5-9eb3-48ee370baa4b)
-
-## 26 - Deixe território em Brasil
-
-![Passo27](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/3736a4f5-c7c8-4ced-ad13-7f6cf4dd33a7)
-
-## 27 - Clique em Sim e clique em Proxímo 
-
-![Passo28](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/1965ea87-1fe3-496d-aed6-5fcead341646)
-
-## Neste Passo deixe em sim e clique em continuar
+## 26 - Escolha a opção sim e clique em continuar
 
 ![Passo003](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/2e4bee1a-eb8b-45c2-a66a-f6455a43a5ac)
 
-## Deixe tudo por padrão e clique em continuar
+## 27 - Escolha a opção /dev/sda
 
-![Passo004](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/53fc6c91-dda1-4314-9cdc-90703273d9d2)
+![Passo007](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/079d98f7-80f4-497d-b316-0061b5d141d4)
 
-## Defina o nome como kali
+## 28 - Clique em Sim e clique em Proxímo 
 
-![Passo005](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/f826cb56-1e9e-4bcc-81ef-198812bbf4de)
+![Passo28](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/1965ea87-1fe3-496d-aed6-5fcead341646)
+
+## 29 - Clique em Continuar
+![image](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/f9ff4d84-2b36-4b5c-896b-ddcafaeaf52c)
+
 
