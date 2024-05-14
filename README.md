@@ -84,9 +84,7 @@
 
 ![Passo001](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/b5569638-8de1-40d0-b788-428b3db36788)
 
-## 21 - Aqui Deixe padrão 
 
-![Passo002](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/82bb5f04-ee50-4560-8c61-d8afe38c3c3a)
 
 
 ## 20 - Deixe padrão Assistido - usar disco o inteiro
@@ -136,5 +134,7 @@
 ## Defina o nome como kali
 
 ![Passo005](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/f826cb56-1e9e-4bcc-81ef-198812bbf4de)
+## 21 - Aqui Deixe padrão 
 
+![Passo002](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/82bb5f04-ee50-4560-8c61-d8afe38c3c3a)
 
