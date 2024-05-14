@@ -80,6 +80,14 @@
 ## 19 - Deixe a senha como kali
 
 ![Passo19](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/91d6c10b-398d-4d45-8072-673f12e29192)
+## 20 - Defina o relogio para Santa Catarina
+
+![Passo001](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/b5569638-8de1-40d0-b788-428b3db36788)
+
+## 21 - Aqui Deixe padrão 
+
+![Passo002](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/82bb5f04-ee50-4560-8c61-d8afe38c3c3a)
+
 
 ## 20 - Deixe padrão Assistido - usar disco o inteiro
 
