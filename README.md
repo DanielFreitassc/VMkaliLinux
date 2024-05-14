@@ -45,3 +45,4 @@
 
 ![Passo11](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/6b8fb966-4b3a-46fb-8435-3be27f263a9e)
 
+## 11 - Deixe padrão Brasil e clique em próximo
