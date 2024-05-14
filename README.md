@@ -111,6 +111,11 @@
 
 ![Passo25](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/22761d6c-729f-499b-9e9f-38e67c1d6962)
 
+## 25 - Aqui Deixe padrão 
+
+![Passo002](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/82bb5f04-ee50-4560-8c61-d8afe38c3c3a)
+
+
 ## 25 - Deixe o idioma em Português do Brasil 
 
 ![Passo26](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/8fcadc81-bbdb-4bd5-9eb3-48ee370baa4b)
@@ -134,7 +139,4 @@
 ## Defina o nome como kali
 
 ![Passo005](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/f826cb56-1e9e-4bcc-81ef-198812bbf4de)
-## 21 - Aqui Deixe padrão 
-
-![Passo002](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/82bb5f04-ee50-4560-8c61-d8afe38c3c3a)
 
