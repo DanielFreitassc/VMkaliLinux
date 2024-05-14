@@ -93,4 +93,8 @@
 
 ![Passo22](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/bb792ad2-025a-4b57-b4ef-fe7d50d0dc64)
 
+## 23 Deixe padrão e clique em Continuar
+
+![Passo23](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/6caf26f7-11b8-45df-8b97-cc6d407609d7)
+
 
