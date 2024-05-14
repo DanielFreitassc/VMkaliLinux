@@ -1,4 +1,4 @@
-![image](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/d91bd220-246f-4d51-bb38-5a9ad04c1403)## 1 - Abra o Virtual Box
+![image](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/30ef888d-69dc-4550-be74-3c312366a7f8)![image](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/d91bd220-246f-4d51-bb38-5a9ad04c1403)## 1 - Abra o Virtual Box
 
 ![Passo1](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/f01ad255-42ca-4256-87eb-f9036e9358ec)
 
@@ -72,3 +72,15 @@
 ## 17 - Defina o nome completo como kali
 
 ![Passo17](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/0d8eee80-8db5-4e9d-8776-0de6c7dfac26)
+
+## 18 - Deixe o nome kali como nome de usuário
+
+![Passo18](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/9b52e38a-bc08-4ec6-addc-342a79664214)
+
+## 19 - Deixe a senha como kali
+
+![Passo19](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/91d6c10b-398d-4d45-8072-673f12e29192)
+
+## 20 Deixe padrão Assistido - usar disco o inteiro
+
+![Passo20](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/c39dcb1a-0a08-451a-a4a1-9a23c3870d20)
