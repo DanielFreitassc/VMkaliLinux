@@ -1,4 +1,4 @@
-![image](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/cf75c624-337d-4627-a67d-9cc1bc69ac4f)![image](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/30ef888d-69dc-4550-be74-3c312366a7f8)![image](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/d91bd220-246f-4d51-bb38-5a9ad04c1403)## 1 - Abra o Virtual Box
+## 1 - Abra o Virtual Box
 
 ![Passo1](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/f01ad255-42ca-4256-87eb-f9036e9358ec)
 
