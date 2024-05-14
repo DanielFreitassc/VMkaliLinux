@@ -84,3 +84,13 @@
 ## 20 Deixe padrão Assistido - usar disco o inteiro
 
 ![Passo20](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/c39dcb1a-0a08-451a-a4a1-9a23c3870d20)
+
+## 21 Clique em Continuar
+
+![Passo21](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/77060376-8794-4c37-8165-89b4a6821ad5)
+
+## 22 Deixe padrão e clique em Continuar
+
+![Passo22](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/bb792ad2-025a-4b57-b4ef-fe7d50d0dc64)
+
+
