@@ -25,8 +25,23 @@
 
 ![Passo6](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/f90a516f-7faf-4ad9-9ac6-e29f5bbb9b93)
 
-# 7 - Cliquem em Finalizar
+## 7 - Cliquem em Finalizar
 
 ![Passo7](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/0ca6f644-69dc-4f51-96c8-a5a3f947ceca)
 
+## 8 - De um duplo clique na máquina virtual com kali linux
+
+![Passo8](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/f5005ec5-0144-49bf-8046-3e1d7c388ca1)
+
+## 9 - Navegue com as setas até Graphic install 
+
+![Passo9](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/aa3faaab-5d57-4e81-9238-80c94454c499)
+
+## 10 - Escolha a linguagem português do Brasil
+
+![Passo10](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/d470c34c-3112-4af5-8856-5f6a011bee46)
+
+## Clique em próximo 
+
+![Passo11](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/6b8fb966-4b3a-46fb-8435-3be27f263a9e)
 
