@@ -105,4 +105,17 @@
 
 ![Passo25](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/22761d6c-729f-499b-9e9f-38e67c1d6962)
 
+## 25 - Deixe o idioma em Português do Brasil 
+
+![Passo26](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/8fcadc81-bbdb-4bd5-9eb3-48ee370baa4b)
+
+## 26 - Deixe território em Brasil
+
+![Passo27](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/3736a4f5-c7c8-4ced-ad13-7f6cf4dd33a7)
+
+## 27 - Clique em Sim e clique em Proxímo 
+
+![Passo28](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/1965ea87-1fe3-496d-aed6-5fcead341646)
+
+
 
