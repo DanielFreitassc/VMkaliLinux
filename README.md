@@ -21,9 +21,10 @@
 
 ![Passo5](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/0b51d55b-a32c-42bd-bef2-7b94e7ef7917)
 
-## 6 - Deixe tudo por padrão e clique em próximo
+## 6 - Defina como 50 GB 
 
-![Passo6](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/f90a516f-7faf-4ad9-9ac6-e29f5bbb9b93)
+![Passo](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/42512ded-f31d-4fa7-9232-82b2914411df)
+
 
 ## 7 - Cliquem em Finalizar
 
