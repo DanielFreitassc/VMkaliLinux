@@ -84,23 +84,23 @@
 
 ![Passo001](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/b5569638-8de1-40d0-b788-428b3db36788)
 
-## 20 - Deixe padrão Assistido - usar disco o inteiro
+## 21 - Deixe padrão Assistido - usar disco o inteiro
 
 ![Passo20](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/c39dcb1a-0a08-451a-a4a1-9a23c3870d20)
 
-## 21 - Clique em Continuar
+## 22 - Clique em Continuar
 
 ![Passo21](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/77060376-8794-4c37-8165-89b4a6821ad5)
 
-## 22 - Deixe padrão e clique em Continuar
+## 23 - Deixe padrão e clique em Continuar
 
 ![Passo22](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/bb792ad2-025a-4b57-b4ef-fe7d50d0dc64)
 
-## 23 - Deixe padrão e clique em Continuar
+## 24 - Deixe padrão e clique em Continuar
 
 ![Passo23](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/6caf26f7-11b8-45df-8b97-cc6d407609d7)
 
-## 24 - Marque a opção sim e clique em Continuar
+## 25 - Marque a opção sim e clique em Continuar
 
 ![Passo24](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/2f8cff14-bdf1-4385-9612-4b1049d67714)
 
@@ -108,23 +108,23 @@
 
 ![Passo25](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/22761d6c-729f-499b-9e9f-38e67c1d6962)
 
-## 25 - Aqui Deixe padrão 
+## 26 - Aqui Deixe padrão 
 
 ![Passo002](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/82bb5f04-ee50-4560-8c61-d8afe38c3c3a)
 
-## 26 - Escolha a opção sim e clique em continuar
+## 27 - Escolha a opção sim e clique em continuar
 
 ![Passo003](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/2e4bee1a-eb8b-45c2-a66a-f6455a43a5ac)
 
-## 27 - Escolha a opção /dev/sda
+## 28 - Escolha a opção /dev/sda
 
 ![Passo007](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/079d98f7-80f4-497d-b316-0061b5d141d4)
 
-## 28 - Clique em Sim e clique em Proxímo 
+## 29 - Clique em Sim e clique em Proxímo 
 
 ![Passo28](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/1965ea87-1fe3-496d-aed6-5fcead341646)
 
-## 29 - Clique em Continuar
+## 30 - Clique em Continuar
 ![image](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/f9ff4d84-2b36-4b5c-896b-ddcafaeaf52c)
 
 
