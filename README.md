@@ -128,4 +128,3 @@
 ## 30 - Clique em Continuar
 ![image](https://github.com/DanielFreitassc/VMkaliLinux/assets/129224303/f9ff4d84-2b36-4b5c-896b-ddcafaeaf52c)
 
-
